@@ -1,1 +1,4 @@
-Something conflict file.
+# References
+
+* octocat 1 😈
+
